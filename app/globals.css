@@ -30,4 +30,9 @@
     ::selection {
       @apply bg-teal-500 text-text; /* Change highlight background and text color */
     }
+
+    .resumeText {
+      @apply text-text-100 text-sm tracking-tight
+    }
   }
+

@@ -1,4 +1,5 @@
 import InfoCard from "@/components/InfoCard";
+import Resume from "@/components/Resume";
 
 export default function Home() {
   return (
@@ -8,7 +9,7 @@ export default function Home() {
       </div>
 
       <div className="remove-scrollbar lg:w-1/2 w-full  lg:ml-[50%]">
-        <h1>Hello</h1>
+        <Resume />
       </div>
     </main>
   );
