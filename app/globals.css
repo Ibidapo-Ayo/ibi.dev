@@ -25,3 +25,9 @@
       background: transparent;
     }
   }
+
+  @layer utilities {
+    ::selection {
+      @apply bg-teal-500 text-text; /* Change highlight background and text color */
+    }
+  }

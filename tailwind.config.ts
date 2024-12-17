@@ -14,7 +14,8 @@ export default {
           DEFAULT: "#0f172a"
         },
         text: {
-          DEFAULT: "#E2E8F0",
+          // DEFAULT: "#E2E8F0",
+          DEFAULT: "#fff",
           100: "#94A3B8"
         }
       },
