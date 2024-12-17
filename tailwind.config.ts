@@ -12,6 +12,10 @@ export default {
       colors: {
         primary: {
           DEFAULT: "#0f172a"
+        },
+        text: {
+          DEFAULT: "#E2E8F0",
+          100: "#94A3B8"
         }
       },
     }
