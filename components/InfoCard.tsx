@@ -17,9 +17,6 @@ const InfoCard = () => {
                     <p className='text-md text-text-100 tracking-tight'>I build accessible, pixel-perfect digital experiences for the web.</p>
                 </div>
             </div>
-
-
-
             <Socials />
         </div>
     )
